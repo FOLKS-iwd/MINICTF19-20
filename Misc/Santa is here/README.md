@@ -28,4 +28,4 @@ So we got the passphrase , so we extract from the initial image (Securinets.jpg)
 
 ![](https://i.imgur.com/HEOaisZ.png) <br>
 
-the flag is : Securinets{W3_aR3_h3r3_t0_overt@ke_everything_!!!}
+the flag is : Securinets{W3_AR3_h3r3_t0_overt@ke_everything_!!!}
